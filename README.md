@@ -1,10 +1,12 @@
-# burger
-Opskrift på burger
-
-## Opskrift
+# Burger
 Her kommer en opskrift på burger
 
-- Bolle
-- bøf
-- ketchup
+## Ingredienser
 
+- Bolle
+- Bøf
+- Ketchup
+- Salat
+
+## Opskrift
+To be determined
