@@ -10,3 +10,5 @@ Her kommer en opskrift på burger
 
 ## Opskrift
 To be determined
+
+- [see also](folder/)
